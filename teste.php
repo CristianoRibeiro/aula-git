@@ -1,7 +1,9 @@
 <?php
-echo "Teste";
+echo "Arquivo teste app";
 $variavel = "Oi";
-$nome = "";
-$sobrenome = "";
+$nome = "Cristiano";
+$sobrenome = "Ribeiro";
+if($variavel == "Oi")
+  echo $nome . " " . $sobrenome;
 ?> 
 
