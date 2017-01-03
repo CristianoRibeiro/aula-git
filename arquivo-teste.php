@@ -13,5 +13,9 @@ if(isset($email){
  echo "Não foi setado a variavel email";
 } 
 
+$falando = "Bla bla bl";
+if($falando != 0)
+  echo $falando;
+
 ?>
 
