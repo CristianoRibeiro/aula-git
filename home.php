@@ -6,5 +6,6 @@ echo "Sobre";
 
 echo "Index";
 
+$varival = "";
 
 ?>
