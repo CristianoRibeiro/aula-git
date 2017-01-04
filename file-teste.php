@@ -1,6 +1,8 @@
  Isso ai .. agr é ao contrario
 
-kkkkkkk
+kkkkkkk rsrsrsrsrs  kwidjeudjuwhduwhduwhdu
+
+carai mermo 
 
 pront
 
